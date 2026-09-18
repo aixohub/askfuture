@@ -1,0 +1,9457 @@
+[
+ {
+  "note": "基准样例",
+  "input": {
+   "solar": "2000-8-16",
+   "timeIndex": 2,
+   "gender": "女"
+  },
+  "lunarDate": "二〇〇〇年七月十七",
+  "chineseDate": "庚辰 甲申 丙午 庚寅",
+  "fiveElementsClass": "木三局",
+  "soul": "破军",
+  "body": "文昌",
+  "soulBranch": "午",
+  "bodyBranch": "戌",
+  "zodiac": "龙",
+  "sign": "狮子座",
+  "palaces": [
+   {
+    "name": "财帛",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": "权"
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "飞廉",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      43,
+      52
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "庙",
+      "mutagen": "禄"
+     },
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "奏书",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      33,
+      42
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "将军",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      23,
+      32
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "小耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      13,
+      22
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "青龙",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      3,
+      12
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "力士",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      113,
+      122
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "博士",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      103,
+      112
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "官府",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      93,
+      102
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "伏兵",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      83,
+      92
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "长生",
+    "boshi12": "大耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      73,
+      82
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "病符",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      63,
+      72
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": "忌"
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "喜神",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      53,
+      62
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "早子时·阳历年首",
+  "input": {
+   "solar": "1990-1-1",
+   "timeIndex": 0,
+   "gender": "男"
+  },
+  "lunarDate": "一九八九年腊月初五",
+  "chineseDate": "己巳 丁丑 丙寅 戊子",
+  "fiveElementsClass": "水二局",
+  "soul": "巨门",
+  "body": "天机",
+  "soulBranch": "丑",
+  "bodyBranch": "丑",
+  "zodiac": "蛇",
+  "sign": "摩羯座",
+  "palaces": [
+   {
+    "name": "父母",
+    "stem": "丙",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "将军",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丁",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "利",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": "忌"
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "力士",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "博士",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "官府",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "伏兵",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "养",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "平",
+      "mutagen": "禄"
+     },
+     {
+      "name": "破军",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "喜神",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "飞廉",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "丑",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "奏书",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "晚子时",
+  "input": {
+   "solar": "1990-1-1",
+   "timeIndex": 12,
+   "gender": "男"
+  },
+  "lunarDate": "一九八九年腊月初五",
+  "chineseDate": "己巳 丁丑 丁卯 庚子",
+  "fiveElementsClass": "水二局",
+  "soul": "巨门",
+  "body": "天机",
+  "soulBranch": "丑",
+  "bodyBranch": "丑",
+  "zodiac": "蛇",
+  "sign": "摩羯座",
+  "palaces": [
+   {
+    "name": "父母",
+    "stem": "丙",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "平",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "将军",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丁",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "巨门",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": "忌"
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "力士",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "博士",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "官府",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "伏兵",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "养",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "喜神",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "旺",
+      "mutagen": "禄"
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "飞廉",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "丑",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "奏书",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "甲子年·立春前后",
+  "input": {
+   "solar": "1984-2-4",
+   "timeIndex": 6,
+   "gender": "男"
+  },
+  "lunarDate": "一九八四年正月初三",
+  "chineseDate": "甲子 丙寅 戊辰 戊午",
+  "fiveElementsClass": "金四局",
+  "soul": "廉贞",
+  "body": "火星",
+  "soulBranch": "申",
+  "bodyBranch": "申",
+  "zodiac": "鼠",
+  "sign": "水瓶座",
+  "palaces": [
+   {
+    "name": "迁移",
+    "stem": "丙",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "博士",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      64,
+      73
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "丁",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "力士",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      74,
+      83
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "戊",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文昌",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "青龙",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      84,
+      93
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "己",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": "禄"
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "小耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      94,
+      103
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "庚",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "将军",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      104,
+      113
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "辛",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "奏书",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      114,
+      123
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "壬",
+    "branch": "申",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "飞廉",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      4,
+      13
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "癸",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": "科"
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "喜神",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      14,
+      23
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "甲",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "病符",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      24,
+      33
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "乙",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "大耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      34,
+      43
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "丙",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "伏兵",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      44,
+      53
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丁",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "官府",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      54,
+      63
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "乙丑年·正月",
+  "input": {
+   "solar": "1985-2-20",
+   "timeIndex": 7,
+   "gender": "女"
+  },
+  "lunarDate": "一九八五年正月初一",
+  "chineseDate": "乙丑 戊寅 庚寅 癸未",
+  "fiveElementsClass": "木三局",
+  "soul": "武曲",
+  "body": "天相",
+  "soulBranch": "未",
+  "bodyBranch": "酉",
+  "zodiac": "牛",
+  "sign": "双鱼座",
+  "palaces": [
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "官府",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      73,
+      82
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "旺",
+      "mutagen": "禄"
+     },
+     {
+      "name": "巨门",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "博士",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      83,
+      92
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "得",
+      "mutagen": "科"
+     },
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "力士",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      93,
+      102
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "青龙",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      103,
+      112
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      113,
+      122
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "将军",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      3,
+      12
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "奏书",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      13,
+      22
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": true,
+    "major": [],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "飞廉",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      23,
+      32
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "喜神",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      33,
+      42
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "病符",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      43,
+      52
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      53,
+      62
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "伏兵",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      63,
+      72
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "丙寅年",
+  "input": {
+   "solar": "1986-6-15",
+   "timeIndex": 9,
+   "gender": "男"
+  },
+  "lunarDate": "一九八六年五月初九",
+  "chineseDate": "丙寅 甲午 庚寅 乙酉",
+  "fiveElementsClass": "火六局",
+  "soul": "文曲",
+  "body": "天梁",
+  "soulBranch": "酉",
+  "bodyBranch": "卯",
+  "zodiac": "虎",
+  "sign": "双子座",
+  "palaces": [
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "大耗",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      56,
+      65
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "卯",
+    "isBodyPalace": true,
+    "major": [],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "伏兵",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      66,
+      75
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": "忌"
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "官府",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      76,
+      85
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "博士",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      86,
+      95
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "力士",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      96,
+      105
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": "禄"
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "青龙",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      106,
+      115
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "小耗",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      116,
+      125
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "平",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "将军",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      6,
+      15
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "戊",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "奏书",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      16,
+      25
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "己",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "飞廉",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      26,
+      35
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "庚",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "喜神",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      36,
+      45
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "辛",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "庙",
+      "mutagen": "科"
+     },
+     {
+      "name": "文曲",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "病符",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      46,
+      55
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "丁卯年·亥时",
+  "input": {
+   "solar": "1987-12-31",
+   "timeIndex": 11,
+   "gender": "女"
+  },
+  "lunarDate": "一九八七年冬月十一",
+  "chineseDate": "丁卯 壬子 甲寅 乙亥",
+  "fiveElementsClass": "木三局",
+  "soul": "巨门",
+  "body": "天同",
+  "soulBranch": "丑",
+  "bodyBranch": "亥",
+  "zodiac": "兔",
+  "sign": "摩羯座",
+  "palaces": [
+   {
+    "name": "父母",
+    "stem": "壬",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "病符",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      13,
+      22
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "癸",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "旺",
+      "mutagen": "科"
+     },
+     {
+      "name": "巨门",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      23,
+      32
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "甲",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "伏兵",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      33,
+      42
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "乙",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "官府",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      43,
+      52
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丙",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "博士",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      53,
+      62
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丁",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "力士",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      63,
+      72
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "青龙",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      73,
+      82
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      83,
+      92
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "庚",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "将军",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      93,
+      102
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "辛",
+    "branch": "亥",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "庙",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "奏书",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      103,
+      112
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "壬",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "飞廉",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      113,
+      122
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "癸",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "喜神",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      3,
+      12
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "戊辰年·闰月前后",
+  "input": {
+   "solar": "1988-3-3",
+   "timeIndex": 3,
+   "gender": "男"
+  },
+  "lunarDate": "一九八八年正月十六",
+  "chineseDate": "戊辰 甲寅 丁巳 癸卯",
+  "fiveElementsClass": "水二局",
+  "soul": "巨门",
+  "body": "文昌",
+  "soulBranch": "亥",
+  "bodyBranch": "巳",
+  "zodiac": "龙",
+  "sign": "双鱼座",
+  "palaces": [
+   {
+    "name": "田宅",
+    "stem": "甲",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "大耗",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "乙",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "伏兵",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丙",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "官府",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丁",
+    "branch": "巳",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "平",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "博士",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "力士",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "庚",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "得",
+      "mutagen": "忌"
+     },
+     {
+      "name": "太阴",
+      "brightness": "利",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "小耗",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "辛",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "利",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "将军",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "壬",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": "科"
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "奏书",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "癸",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "临官",
+    "boshi12": "飞廉",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "甲",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "喜神",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "乙",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "辛未年",
+  "input": {
+   "solar": "1991-8-8",
+   "timeIndex": 5,
+   "gender": "女"
+  },
+  "lunarDate": "一九九一年六月廿八",
+  "chineseDate": "辛未 乙未 庚戌 辛巳",
+  "fiveElementsClass": "木三局",
+  "soul": "禄存",
+  "body": "天相",
+  "soulBranch": "寅",
+  "bodyBranch": "子",
+  "zodiac": "羊",
+  "sign": "狮子座",
+  "palaces": [
+   {
+    "name": "命宫",
+    "stem": "庚",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "奏书",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      3,
+      12
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "辛",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "飞廉",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      13,
+      22
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "壬",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "喜神",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      23,
+      32
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "癸",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文昌",
+      "brightness": "庙",
+      "mutagen": "忌"
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "病符",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      33,
+      42
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "甲",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      43,
+      52
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "乙",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "伏兵",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      53,
+      62
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丙",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "官府",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      63,
+      72
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "丁",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "庙",
+      "mutagen": "科"
+     },
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "博士",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      73,
+      82
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "戊",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "力士",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      83,
+      92
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "己",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "长生",
+    "boshi12": "青龙",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      93,
+      102
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "庚",
+    "branch": "子",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      103,
+      112
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "辛",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "将军",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      113,
+      122
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "丙辰年·闰八月",
+  "input": {
+   "solar": "1976-7-28",
+   "timeIndex": 4,
+   "gender": "男"
+  },
+  "lunarDate": "一九七六年七月初二",
+  "chineseDate": "丙辰 丙申 辛巳 壬辰",
+  "fiveElementsClass": "水二局",
+  "soul": "廉贞",
+  "body": "文昌",
+  "soulBranch": "辰",
+  "bodyBranch": "子",
+  "zodiac": "龙",
+  "sign": "狮子座",
+  "palaces": [
+   {
+    "name": "夫妻",
+    "stem": "庚",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "大耗",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "辛",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "伏兵",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "壬",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "官府",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "癸",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "博士",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "甲",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "平",
+      "mutagen": "忌"
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": "科"
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "力士",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "乙",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "丙",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "小耗",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丁",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "将军",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "戊",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "奏书",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "己",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "飞廉",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "庚",
+    "branch": "子",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "喜神",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "辛",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "陷",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "乙亥年",
+  "input": {
+   "solar": "1995-10-10",
+   "timeIndex": 10,
+   "gender": "女"
+  },
+  "lunarDate": "一九九五年闰八月十六",
+  "chineseDate": "乙亥 丙戌 甲戌 甲戌",
+  "fiveElementsClass": "火六局",
+  "soul": "贪狼",
+  "body": "天机",
+  "soulBranch": "子",
+  "bodyBranch": "申",
+  "zodiac": "猪",
+  "sign": "天秤座",
+  "palaces": [
+   {
+    "name": "福德",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "平",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "官府",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      26,
+      35
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "博士",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      36,
+      45
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "力士",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      46,
+      55
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "青龙",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      56,
+      65
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "小耗",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      66,
+      75
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "将军",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      76,
+      85
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "奏书",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      86,
+      95
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "飞廉",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      96,
+      105
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "喜神",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      106,
+      115
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "绝",
+    "boshi12": "病符",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      116,
+      125
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文昌",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "大耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      6,
+      15
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "伏兵",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      16,
+      25
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "辛巳年·丑时",
+  "input": {
+   "solar": "2001-2-14",
+   "timeIndex": 1,
+   "gender": "男"
+  },
+  "lunarDate": "二〇〇一年正月廿二",
+  "chineseDate": "辛巳 庚寅 戊申 癸丑",
+  "fiveElementsClass": "土五局",
+  "soul": "巨门",
+  "body": "天机",
+  "soulBranch": "丑",
+  "bodyBranch": "卯",
+  "zodiac": "蛇",
+  "sign": "水瓶座",
+  "palaces": [
+   {
+    "name": "父母",
+    "stem": "庚",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "喜神",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      115,
+      124
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "辛",
+    "branch": "卯",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "飞廉",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      105,
+      114
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "壬",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "陷",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "奏书",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      95,
+      104
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "癸",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "将军",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      85,
+      94
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "甲",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      75,
+      84
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "乙",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "青龙",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      65,
+      74
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "丙",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "力士",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      55,
+      64
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "丁",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "庙",
+      "mutagen": "忌"
+     },
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "博士",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      45,
+      54
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "戊",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "官府",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      35,
+      44
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "己",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "平",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "伏兵",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      25,
+      34
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "庚",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "陷",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      15,
+      24
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "辛",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "病符",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      5,
+      14
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "庚寅年",
+  "input": {
+   "solar": "2010-5-20",
+   "timeIndex": 8,
+   "gender": "女"
+  },
+  "lunarDate": "二〇一〇年四月初七",
+  "chineseDate": "庚寅 辛巳 庚午 甲申",
+  "fiveElementsClass": "水二局",
+  "soul": "文曲",
+  "body": "天梁",
+  "soulBranch": "酉",
+  "bodyBranch": "丑",
+  "zodiac": "虎",
+  "sign": "金牛座",
+  "palaces": [
+   {
+    "name": "仆役",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "飞廉",
+    "jiangqian12": "指背",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "巨门",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "奏书",
+    "jiangqian12": "咸池",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "将军",
+    "jiangqian12": "月煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "临官",
+    "boshi12": "小耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "青龙",
+    "jiangqian12": "将星",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "力士",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "博士",
+    "jiangqian12": "岁驿",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "官府",
+    "jiangqian12": "息神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "伏兵",
+    "jiangqian12": "华盖",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "大耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "旺",
+      "mutagen": "权"
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "病符",
+    "jiangqian12": "灾煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": "禄"
+     },
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "喜神",
+    "jiangqian12": "天煞",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "乙未年",
+  "input": {
+   "solar": "2015-9-9",
+   "timeIndex": 6,
+   "gender": "男"
+  },
+  "lunarDate": "二〇一五年七月廿七",
+  "chineseDate": "乙未 甲申 戊子 戊午",
+  "fiveElementsClass": "土五局",
+  "soul": "禄存",
+  "body": "天相",
+  "soulBranch": "寅",
+  "bodyBranch": "寅",
+  "zodiac": "羊",
+  "sign": "处女座",
+  "palaces": [
+   {
+    "name": "命宫",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "力士",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      5,
+      14
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "旺",
+      "mutagen": "禄"
+     },
+     {
+      "name": "巨门",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "博士",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      115,
+      124
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "得",
+      "mutagen": "科"
+     },
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文昌",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "官府",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      105,
+      114
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "伏兵",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      95,
+      104
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      85,
+      94
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "病符",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      75,
+      84
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "喜神",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      65,
+      74
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "养",
+    "boshi12": "飞廉",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      55,
+      64
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "奏书",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      45,
+      54
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "绝",
+    "boshi12": "将军",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      35,
+      44
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      25,
+      34
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "青龙",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      15,
+      24
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "庚子年·闰日",
+  "input": {
+   "solar": "2020-2-29",
+   "timeIndex": 4,
+   "gender": "女"
+  },
+  "lunarDate": "二〇二〇年二月初七",
+  "chineseDate": "庚子 己卯 壬寅 甲辰",
+  "fiveElementsClass": "土五局",
+  "soul": "巨门",
+  "body": "火星",
+  "soulBranch": "亥",
+  "bodyBranch": "未",
+  "zodiac": "鼠",
+  "sign": "双鱼座",
+  "palaces": [
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "飞廉",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      95,
+      104
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "奏书",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      85,
+      94
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "将军",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      75,
+      84
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "小耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      65,
+      74
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "青龙",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      55,
+      64
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": "忌"
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "力士",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      45,
+      54
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": "权"
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "博士",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      35,
+      44
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "平",
+      "mutagen": "禄"
+     },
+     {
+      "name": "天梁",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "官府",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      25,
+      34
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "伏兵",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      15,
+      24
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "绝",
+    "boshi12": "大耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      5,
+      14
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "病符",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      115,
+      124
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "喜神",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      105,
+      114
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "癸卯年·春节",
+  "input": {
+   "solar": "2023-1-22",
+   "timeIndex": 0,
+   "gender": "男"
+  },
+  "lunarDate": "二〇二三年正月初一",
+  "chineseDate": "癸卯 甲寅 庚辰 丙子",
+  "fiveElementsClass": "水二局",
+  "soul": "禄存",
+  "body": "天同",
+  "soulBranch": "寅",
+  "bodyBranch": "寅",
+  "zodiac": "兔",
+  "sign": "水瓶座",
+  "palaces": [
+   {
+    "name": "命宫",
+    "stem": "甲",
+    "branch": "寅",
+    "isBodyPalace": true,
+    "major": [],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "伏兵",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "乙",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丙",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "丁",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "喜神",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "戊",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "飞廉",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "己",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "奏书",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "庚",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "长生",
+    "boshi12": "将军",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "辛",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "壬",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "癸",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "力士",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "甲",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "博士",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "乙",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "官府",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "癸卯年·晚子时",
+  "input": {
+   "solar": "2023-3-22",
+   "timeIndex": 12,
+   "gender": "女"
+  },
+  "lunarDate": "二〇二三年闰二月初一",
+  "chineseDate": "癸卯 乙卯 庚辰 丙子",
+  "fiveElementsClass": "水二局",
+  "soul": "文曲",
+  "body": "天同",
+  "soulBranch": "卯",
+  "bodyBranch": "卯",
+  "zodiac": "兔",
+  "sign": "白羊座",
+  "palaces": [
+   {
+    "name": "兄弟",
+    "stem": "甲",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "青龙",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "乙",
+    "branch": "卯",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "小耗",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "丙",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "将军",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丁",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "奏书",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "平",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "飞廉",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "养",
+    "boshi12": "喜神",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "长生",
+    "boshi12": "病符",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "大耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "伏兵",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "官府",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "庙",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "博士",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "力士",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "庚子年·子月",
+  "input": {
+   "solar": "1960-12-25",
+   "timeIndex": 7,
+   "gender": "男"
+  },
+  "lunarDate": "一九六〇年冬月初八",
+  "chineseDate": "庚子 戊子 丁亥 丁未",
+  "fiveElementsClass": "金四局",
+  "soul": "武曲",
+  "body": "火星",
+  "soulBranch": "巳",
+  "bodyBranch": "未",
+  "zodiac": "鼠",
+  "sign": "摩羯座",
+  "palaces": [
+   {
+    "name": "子女",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "旺",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "飞廉",
+    "jiangqian12": "岁驿",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      94,
+      103
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "喜神",
+    "jiangqian12": "息神",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      104,
+      113
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "病符",
+    "jiangqian12": "华盖",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      114,
+      123
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "大耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      4,
+      13
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "伏兵",
+    "jiangqian12": "灾煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      14,
+      23
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "官府",
+    "jiangqian12": "天煞",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      24,
+      33
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "博士",
+    "jiangqian12": "指背",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      34,
+      43
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "力士",
+    "jiangqian12": "咸池",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      44,
+      53
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "青龙",
+    "jiangqian12": "月煞",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      54,
+      63
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "平",
+      "mutagen": "权"
+     },
+     {
+      "name": "破军",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "小耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      64,
+      73
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "陷",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "将军",
+    "jiangqian12": "将星",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      74,
+      83
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "奏书",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      84,
+      93
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "庚戌年",
+  "input": {
+   "solar": "1970-6-1",
+   "timeIndex": 11,
+   "gender": "女"
+  },
+  "lunarDate": "一九七〇年四月廿八",
+  "chineseDate": "庚戌 辛巳 壬子 辛亥",
+  "fiveElementsClass": "木三局",
+  "soul": "破军",
+  "body": "文昌",
+  "soulBranch": "午",
+  "bodyBranch": "辰",
+  "zodiac": "狗",
+  "sign": "双子座",
+  "palaces": [
+   {
+    "name": "财帛",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "飞廉",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      43,
+      52
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "奏书",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      33,
+      42
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "将军",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      23,
+      32
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "小耗",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      13,
+      22
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "青龙",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      3,
+      12
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "力士",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      113,
+      122
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "旺",
+      "mutagen": "忌"
+     },
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "博士",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      103,
+      112
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": "权"
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "擎羊",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "官府",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      93,
+      102
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "伏兵",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      83,
+      92
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "大耗",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      73,
+      82
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "病符",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      63,
+      72
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "喜神",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      53,
+      62
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "乙未年",
+  "input": {
+   "solar": "1955-11-11",
+   "timeIndex": 5,
+   "gender": "男"
+  },
+  "lunarDate": "一九五五年九月廿七",
+  "chineseDate": "乙未 丙戌 丙子 癸巳",
+  "fiveElementsClass": "金四局",
+  "soul": "武曲",
+  "body": "天相",
+  "soulBranch": "巳",
+  "bodyBranch": "卯",
+  "zodiac": "羊",
+  "sign": "天蝎座",
+  "palaces": [
+   {
+    "name": "子女",
+    "stem": "戊",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "力士",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      34,
+      43
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "己",
+    "branch": "卯",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "博士",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      24,
+      33
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "庚",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "官府",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      14,
+      23
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "辛",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "伏兵",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      4,
+      13
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "壬",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      114,
+      123
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "癸",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": "科"
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "病符",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      104,
+      113
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "甲",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "喜神",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      94,
+      103
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "乙",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "飞廉",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      84,
+      93
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丙",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "旺",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "奏书",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      74,
+      83
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丁",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "病",
+    "boshi12": "将军",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      64,
+      73
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      54,
+      63
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "青龙",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      44,
+      53
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "己丑年",
+  "input": {
+   "solar": "1949-10-1",
+   "timeIndex": 8,
+   "gender": "男"
+  },
+  "lunarDate": "一九四九年八月初十",
+  "chineseDate": "己丑 癸酉 甲子 壬申",
+  "fiveElementsClass": "水二局",
+  "soul": "巨门",
+  "body": "天相",
+  "soulBranch": "丑",
+  "bodyBranch": "巳",
+  "zodiac": "牛",
+  "sign": "天秤座",
+  "palaces": [
+   {
+    "name": "父母",
+    "stem": "丙",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": "禄"
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "将军",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "丁",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "戊",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "帝旺",
+    "boshi12": "青龙",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "己",
+    "branch": "巳",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "力士",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "庚",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "铃星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "博士",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "辛",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "沐浴",
+    "boshi12": "官府",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "壬",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "伏兵",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "癸",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "养",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "甲",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "胎",
+    "boshi12": "病符",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "乙",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "喜神",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "得",
+      "mutagen": "忌"
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "飞廉",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "奏书",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "癸丑年（远期历表）",
+  "input": {
+   "solar": "2033-1-31",
+   "timeIndex": 3,
+   "gender": "女"
+  },
+  "lunarDate": "二〇三三年正月初一",
+  "chineseDate": "癸丑 甲寅 壬午 癸卯",
+  "fiveElementsClass": "水二局",
+  "soul": "巨门",
+  "body": "天相",
+  "soulBranch": "亥",
+  "bodyBranch": "巳",
+  "zodiac": "牛",
+  "sign": "水瓶座",
+  "palaces": [
+   {
+    "name": "田宅",
+    "stem": "甲",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "青龙",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      32,
+      41
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "乙",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      42,
+      51
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "丙",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "陷",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "将军",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      52,
+      61
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "丁",
+    "branch": "巳",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "陷",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "陷",
+      "mutagen": "忌"
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "奏书",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      62,
+      71
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "戊",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "旺",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "飞廉",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      72,
+      81
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "己",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "喜神",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      82,
+      91
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "庚",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "天梁",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "病符",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      92,
+      101
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "辛",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      102,
+      111
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "壬",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "不",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "伏兵",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      112,
+      121
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "癸",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "官府",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      2,
+      11
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "甲",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "博士",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      12,
+      21
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "乙",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "破军",
+      "brightness": "旺",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "力士",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      22,
+      31
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "辛丑年（历表起始）",
+  "input": {
+   "solar": "1901-2-19",
+   "timeIndex": 2,
+   "gender": "男"
+  },
+  "lunarDate": "一九〇一年正月初一",
+  "chineseDate": "辛丑 庚寅 戊辰 甲寅",
+  "fiveElementsClass": "土五局",
+  "soul": "贪狼",
+  "body": "天相",
+  "soulBranch": "子",
+  "bodyBranch": "辰",
+  "zodiac": "牛",
+  "sign": "双鱼座",
+  "palaces": [
+   {
+    "name": "福德",
+    "stem": "庚",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "天相",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "喜神",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      105,
+      114
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "辛",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "庙",
+      "mutagen": "权"
+     },
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "衰",
+    "boshi12": "飞廉",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      95,
+      104
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "壬",
+    "branch": "辰",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "奏书",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      85,
+      94
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "癸",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "火星",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "将军",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      75,
+      84
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "甲",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文曲",
+      "brightness": "陷",
+      "mutagen": "科"
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "冠带",
+    "boshi12": "小耗",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      65,
+      74
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "乙",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "青龙",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      55,
+      64
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "丙",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "破军",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "得",
+      "mutagen": "忌"
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "力士",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      45,
+      54
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "丁",
+    "branch": "酉",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "博士",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      35,
+      44
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "戊",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "官府",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      25,
+      34
+     ]
+    }
+   },
+   {
+    "name": "兄弟",
+    "stem": "己",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阴",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "绝",
+    "boshi12": "伏兵",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      15,
+      24
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "庚",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "贪狼",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "墓",
+    "boshi12": "大耗",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      5,
+      14
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "辛",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "不",
+      "mutagen": ""
+     },
+     {
+      "name": "巨门",
+      "brightness": "不",
+      "mutagen": "禄"
+     }
+    ],
+    "minor": [
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "死",
+    "boshi12": "病符",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      115,
+      124
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "note": "己未年（历表结束）",
+  "input": {
+   "solar": "2099-12-31",
+   "timeIndex": 9,
+   "gender": "女"
+  },
+  "lunarDate": "二〇九九年冬月二十",
+  "chineseDate": "己未 丙子 壬寅 己酉",
+  "fiveElementsClass": "火六局",
+  "soul": "文曲",
+  "body": "天相",
+  "soulBranch": "卯",
+  "bodyBranch": "酉",
+  "zodiac": "羊",
+  "sign": "摩羯座",
+  "palaces": [
+   {
+    "name": "兄弟",
+    "stem": "丙",
+    "branch": "寅",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [
+     {
+      "name": "左辅",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地空",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "长生",
+    "boshi12": "病符",
+    "jiangqian12": "亡神",
+    "suiqian12": "龙德",
+    "decadal": {
+     "range": [
+      116,
+      125
+     ]
+    }
+   },
+   {
+    "name": "命宫",
+    "stem": "丁",
+    "branch": "卯",
+    "isBodyPalace": false,
+    "major": [],
+    "minor": [],
+    "changsheng12": "沐浴",
+    "boshi12": "大耗",
+    "jiangqian12": "将星",
+    "suiqian12": "白虎",
+    "decadal": {
+     "range": [
+      6,
+      15
+     ]
+    }
+   },
+   {
+    "name": "父母",
+    "stem": "戊",
+    "branch": "辰",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天同",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "冠带",
+    "boshi12": "伏兵",
+    "jiangqian12": "攀鞍",
+    "suiqian12": "天德",
+    "decadal": {
+     "range": [
+      16,
+      25
+     ]
+    }
+   },
+   {
+    "name": "福德",
+    "stem": "己",
+    "branch": "巳",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "武曲",
+      "brightness": "平",
+      "mutagen": "禄"
+     },
+     {
+      "name": "破军",
+      "brightness": "平",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天马",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "陀罗",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "临官",
+    "boshi12": "官府",
+    "jiangqian12": "岁驿",
+    "suiqian12": "吊客",
+    "decadal": {
+     "range": [
+      26,
+      35
+     ]
+    }
+   },
+   {
+    "name": "田宅",
+    "stem": "庚",
+    "branch": "午",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "太阳",
+      "brightness": "旺",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "禄存",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "火星",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "帝旺",
+    "boshi12": "博士",
+    "jiangqian12": "息神",
+    "suiqian12": "病符",
+    "decadal": {
+     "range": [
+      36,
+      45
+     ]
+    }
+   },
+   {
+    "name": "官禄",
+    "stem": "辛",
+    "branch": "未",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天府",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "铃星",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "擎羊",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "衰",
+    "boshi12": "力士",
+    "jiangqian12": "华盖",
+    "suiqian12": "岁建",
+    "decadal": {
+     "range": [
+      46,
+      55
+     ]
+    }
+   },
+   {
+    "name": "仆役",
+    "stem": "壬",
+    "branch": "申",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天机",
+      "brightness": "得",
+      "mutagen": ""
+     },
+     {
+      "name": "太阴",
+      "brightness": "利",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "天钺",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "地劫",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "病",
+    "boshi12": "青龙",
+    "jiangqian12": "劫煞",
+    "suiqian12": "晦气",
+    "decadal": {
+     "range": [
+      56,
+      65
+     ]
+    }
+   },
+   {
+    "name": "迁移",
+    "stem": "癸",
+    "branch": "酉",
+    "isBodyPalace": true,
+    "major": [
+     {
+      "name": "紫微",
+      "brightness": "旺",
+      "mutagen": ""
+     },
+     {
+      "name": "贪狼",
+      "brightness": "利",
+      "mutagen": "权"
+     }
+    ],
+    "minor": [],
+    "changsheng12": "死",
+    "boshi12": "小耗",
+    "jiangqian12": "灾煞",
+    "suiqian12": "丧门",
+    "decadal": {
+     "range": [
+      66,
+      75
+     ]
+    }
+   },
+   {
+    "name": "疾厄",
+    "stem": "甲",
+    "branch": "戌",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "巨门",
+      "brightness": "陷",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "墓",
+    "boshi12": "将军",
+    "jiangqian12": "天煞",
+    "suiqian12": "贯索",
+    "decadal": {
+     "range": [
+      76,
+      85
+     ]
+    }
+   },
+   {
+    "name": "财帛",
+    "stem": "乙",
+    "branch": "亥",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天相",
+      "brightness": "得",
+      "mutagen": ""
+     }
+    ],
+    "minor": [],
+    "changsheng12": "绝",
+    "boshi12": "奏书",
+    "jiangqian12": "指背",
+    "suiqian12": "官符",
+    "decadal": {
+     "range": [
+      86,
+      95
+     ]
+    }
+   },
+   {
+    "name": "子女",
+    "stem": "丙",
+    "branch": "子",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "天梁",
+      "brightness": "庙",
+      "mutagen": "科"
+     }
+    ],
+    "minor": [
+     {
+      "name": "右弼",
+      "brightness": "",
+      "mutagen": ""
+     },
+     {
+      "name": "天魁",
+      "brightness": "",
+      "mutagen": ""
+     }
+    ],
+    "changsheng12": "胎",
+    "boshi12": "飞廉",
+    "jiangqian12": "咸池",
+    "suiqian12": "小耗",
+    "decadal": {
+     "range": [
+      96,
+      105
+     ]
+    }
+   },
+   {
+    "name": "夫妻",
+    "stem": "丁",
+    "branch": "丑",
+    "isBodyPalace": false,
+    "major": [
+     {
+      "name": "廉贞",
+      "brightness": "利",
+      "mutagen": ""
+     },
+     {
+      "name": "七杀",
+      "brightness": "庙",
+      "mutagen": ""
+     }
+    ],
+    "minor": [
+     {
+      "name": "文昌",
+      "brightness": "庙",
+      "mutagen": ""
+     },
+     {
+      "name": "文曲",
+      "brightness": "庙",
+      "mutagen": "忌"
+     }
+    ],
+    "changsheng12": "养",
+    "boshi12": "喜神",
+    "jiangqian12": "月煞",
+    "suiqian12": "大耗",
+    "decadal": {
+     "range": [
+      106,
+      115
+     ]
+    }
+   }
+  ]
+ }
+]
